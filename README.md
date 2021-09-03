@@ -1,5 +1,5 @@
 # Webhook-IP-Logger
-This is a PHP IP logger I made that sends the IP's to a Discord webhook.  
+This is a PHP IP that sends people IPs and IP information to a discord webhook.
 # Features
 - Grabs the IP then gets info about it after that it sends it to a webhook you have entered.  
 - Gets Geo Location & ISP aswell as the browser
